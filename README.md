@@ -2,38 +2,14 @@
 
 A curated list of products, frameworks or tools pertaining to Cloud Native Data Management. 
 
+Each of the category in turn lists the self managed and cloud managed tools. 
 
-## Relational(SQL) Databases
+- [Data Pipeline Orchestrators](./data-pipelines.md)
+- [Data Warehouses](./data-warehouses.md)
+- [SQL Databases](./databases-sql.md)
+- [NoSQL Databases](./databases-nosql.md)
+- [Object Storage](./databases-objectstorage.md)
+- [Streaming](./streaming.md)
 
-### Self Managed
-- [MariaDB](https://mariadb.org/)
-- Microsoft SQL server           
-- Oracle                         
-- [Percona MySQL](https://www.percona.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [YugaByteDB](https://github.com/yugabyte/yugabyte-db)
-
-
-### Cloud Managed
-- AWS Aurora
-- AWA RDS
-- Azure SQL
-- Google Cloud SQL
-- Google Cloud Spanner
-
-
-## NoSQL Databases
-
-### Self-managed
-- Cassandra
-- MongoDB 
-- Redis
-
-### Cloud Managed
-- AWS DynamoDB
-- AWS DocumentDB
-- Azure CosmosDB
-- Google Bigtable
-- Google Cloud Datastore
-- Google Cloud Firestore
+Its pretty hard to categorize the tools, especially when they can provide multiple aspects of data management. Always looking for feedback to make the above categorization better. Please feel free to [raise an PR](https://github.com/oss-bootcamp/dataops/pulls) with your recommended changes or [raise an issue](https://github.com/oss-bootcamp/dataops/issues/new) describing the change.
 
