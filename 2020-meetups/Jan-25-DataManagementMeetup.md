@@ -74,3 +74,9 @@ Future Projects of Interest
 - Prometheus, Telegraph, EFK, Druid, Superset
 - Azure Data stack, Spark, Flink, Kafka,Bigdata, Hive, Alluxio
 
+## Fun and Goodies. 
+
+We had a raffle drawn to sponsor a couple of folks for the Kubernetes Forum Bangalore. The lucky winners are:
+- Manabendra Nath Mondal
+- Prashanth Shahi
+
