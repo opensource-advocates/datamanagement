@@ -29,8 +29,8 @@ The following talks were presented:
   * [Slides](https://drive.google.com/file/d/0B2SPr6SecOoqcWIxeG5zVHltNXZxNFRrTTlwY0NYRjU0eXZF/view?usp=sharing)
   
  We also included on-the-spot Lightening talks: 
- - Introduction to Kadalu -  Persistent storage solution for Kubernetes / OpenShift using GlusterFS
-   * By Amar
+ - Introduction to [Kadalu](https://kadalu.io) -  Persistent storage solution for Kubernetes / OpenShift - using [GlusterFS](https://gluster.org)
+   * By Amar Tumballi - Maintainer, Gluster.ORG and Kadalu.IO [Twitter](https://twitter.com/tumballi), [LinkedIn](https://www.linkedin.com/in/tumballi/)
    * Project Link: https://github.com/kadalu/kadalu
  - Introduction to RazorOps - Container native continuous delivery platform
    * By Shyam Mohan
