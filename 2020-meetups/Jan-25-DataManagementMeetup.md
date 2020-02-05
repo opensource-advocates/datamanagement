@@ -17,7 +17,7 @@ The following talks were presented:
   * [Slides](https://drive.google.com/file/d/0B2SPr6SecOoqT1g5WDZ6cXY1azlMWmtMMHVJclpfSmdvUF9B/view?usp=sharing)
 - Use case : Lessons learned while moving stateful services to Kubernetes at Lenskart 
   * By Rajdeep Bhattacharya, Sr. Technical Lead Devops at Lenskart.com
-  * [Slides](https://docs.google.com/presentation/d/1j64sPnQwKLuWdbOPeZ6ZwC5qYAEaeIbck91YbSvOPM0/edit#slide=id.g6c6271b736_0_1)
+  * [Slides](https://docs.google.com/presentation/d/1avLc5ELbx4Xu59t7Y7si_VpMaeVPAmV1fl28BREoedY/edit#slide=id.g7acca4f931_0_35)
 - Technology - What, why and How of Timeseries database for kubernetes
   * By Saiyam Pathak, Software Engineer/SRE, Walmart LAbs
 - Tools/Solution - CI/CD development on Kubernetes made easy by Skaffold 
