@@ -65,7 +65,7 @@ The Good!
 
 Needs Improvement/Feedback:
 - Stick to the allotted time slots 
-- Hava specific theme for the meetup
+- Have specific theme for the meetup
 - The venue was a little hard to locate. 
 
 ## Raffle Question: Kubernetes Grey Areas
